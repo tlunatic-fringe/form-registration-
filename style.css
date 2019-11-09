@@ -1,0 +1,42 @@
+body {
+    font-family: Candara;
+    background-image: url(images/bg2.jpg);
+    background-size: 100%, 100%;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+label {
+    display: inline-block;
+    width: 350px;
+}
+
+h3 {
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 270px;
+    font-size: 30px;
+}
+
+div {
+    padding: 12px;
+}
+
+button {
+    background-color: forestgreen;
+    text-decoration-color: aliceblue;
+}
+
+.gen {
+    margin-left: 300px;
+}
+
+.but {
+    position: relative;
+    left: 350px;
+}
+
+.text {
+    position: relative;
+    left: 295px;
+}
